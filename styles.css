@@ -82,3 +82,9 @@ button {
     font-size: 25px;
 
 }
+
+button:hover {
+    background-color: white;
+    color: lightcoral;
+    border:1px solid lightcoral;
+}
